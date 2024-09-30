@@ -1,2 +1,2 @@
-# masasacs.github.com
+# masasacs.github.io
 masasa beach resort
