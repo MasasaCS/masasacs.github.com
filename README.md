@@ -10,11 +10,12 @@
 - Data Structures
 
 ### Class 10
-- backtracking
-- divide et impera
+- Backtracking
+- Divide et impera
 - Dynamic Programming
 - Recursivity
-- 
+- Greedy
+  
 ### Class 11
 - Linked List
 - Graphs
