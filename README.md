@@ -1,9 +1,10 @@
 # masasacs.github.io
 
+## High School
 
 ### Class 9
 - Introduction to C++/Python/JAVA
-- - File Handling
+- File Handling
 - I/O Handling
 - Algorithms
 - Data Structures
@@ -21,3 +22,10 @@
 - OOP
 ### Class 12
 - Databases
+
+## University
+- Algorithms and Data Structures
+- Introduction to AI
+- Algebra and Maths Analysis
+
+#
